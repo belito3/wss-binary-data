@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v15.8.0",
     "ws": "^6.2.1"
   }
 }
